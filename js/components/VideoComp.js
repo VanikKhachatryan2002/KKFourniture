@@ -1,4 +1,4 @@
-define(["exports", "../Home_video.mp4"], function (_exports, _Home_video) {
+define(["exports", "kkfourniture/Home_video.mp4"], function (_exports, _Home_video) {
   "use strict";
 
   Object.defineProperty(_exports, "__esModule", {
